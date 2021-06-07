@@ -6,10 +6,28 @@ Y
 
 
 ###How to install?###
+
+
+
 apt update
+
+
+
 apt upgrade -y
-apt install git -y
+
+
+
+pkg install git -y
+
+
+
 git clone https://github.com/Iamardeshir/hackinstall.sh
 cd hackinstall.sh
+
+
+
 chmod +x hackinstall.sh
+
+
+
 ./hackinstall.sh
