@@ -21,8 +21,8 @@ pkg install git -y
 
 
 
-git clone https://github.com/Iamardeshir/hackinstall.sh
-cd hackinstall.sh
+git clone https://github.com/Iamardeshir/hack-install.sh
+cd hack-install
 
 
 
